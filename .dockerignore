@@ -1,0 +1,7 @@
+.git
+.github
+images
+*.md
+*.sh
+__pycache__
+*.pyc
